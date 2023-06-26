@@ -53,7 +53,7 @@ This project is a complete fullstack social media application built using the ME
      PORT= <PORT_NUMBER>
      ```
 
-8. Start the development server: `npm start` in `root-directory\client`
+8. Start the Frontend development server: `npm start` in `root-directory\client`
 9. Start the Backend server: `nodemon index.js` in `root-directory\server`
 10. Open your web browser and navigate to `http://localhost:3000` to access the application.
 
