@@ -17,23 +17,20 @@ This project is a complete fullstack social media application built using the ME
 
 ## Features
 
-List the main features of your application here. For example:
 - User authentication and authorization
-- Create, read, update, and delete posts
+- CRUD Operations
 - User profiles and social connections
+- Dark Mode
+- Likes and Comments
 
 ## Technologies
 
-Mention the technologies used in your project. For example:
 - Frontend: React, HTML, CSS
 - Backend: Node.js, Express
 - Database: MongoDB
 - State Management: Redux
-- Other dependencies: (list any additional libraries or frameworks you've used)
 
 ## Installation
-
-Provide step-by-step instructions on how to set up and install your application locally. Include any prerequisites, dependencies, or configuration steps. For example:
 
 1. Clone the repository:
    ```
