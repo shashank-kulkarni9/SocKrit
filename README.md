@@ -48,7 +48,7 @@ This project is a complete fullstack social media application built using the ME
    - Create a `.env` file in the root directory
    - Define the required environment variables (e.g., database connection string, API keys, etc.) as
      ```
-      MONGO_URL= 'url-to-your-mongodb-connection'
+     MONGO_URL= 'url-to-your-mongodb-connection'
      JWT_SECRET='any-random-string'
      PORT= <PORT_NUMBER>
      ```
