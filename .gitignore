@@ -1,0 +1,22 @@
+# Node.js dependencies
+/client/node_modules/
+/server/node_modules/
+
+# Environment-specific files
+/server/.env
+
+# Build artifacts
+/client/build/
+
+# Editor and IDE-specific files
+/.vscode/
+/.idea/
+
+# Package lock files
+/package-lock.json
+/client/package-lock.json
+/server/package-lock.json
+
+# Compiled or minified files
+# Add any additional build output directories or file patterns here
+
