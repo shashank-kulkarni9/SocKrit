@@ -1,6 +1,12 @@
 # SocKrit
 
 This is a full-stack MERN (MongoDB, Express, React, Node.js) application.
+- Deployement : https://enchanting-blini-cdc000.netlify.app/
+- Use the following credentials to try : 
+  ```
+  email : tempuser@gmail.com
+  password : tempuser
+  ```
 
 
 ## Table of Contents
