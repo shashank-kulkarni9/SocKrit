@@ -4,7 +4,6 @@ This is a full-stack MERN (MongoDB, Express, React, Node.js) application.
 
 - Deployement :
     - https://sockrit.vercel.app/
-    - (or)
     - https://sockrit-shashank-kulkarni9.vercel.app/
   
 - Use the following credentials to try :
