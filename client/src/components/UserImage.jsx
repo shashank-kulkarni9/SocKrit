@@ -8,7 +8,7 @@ const UserImage = ({ image, size = "60px" }) => {
         width={size}
         height={size}
         alt="user"
-        src={`https://sockrit.vercel.app/assets/${image}`}
+        src={`https://sockrit-server.vercel.app/assets/${image}`}
       />
     </Box>
   );

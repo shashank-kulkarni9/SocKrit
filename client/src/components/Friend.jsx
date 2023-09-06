@@ -23,7 +23,7 @@ const Friend = ({ friendId, name, subtitle, userPicturePath }) => {
 
   const patchFriend = async () => {
     const response = await fetch(
-      `https://sockrit.vercel.app/users/${_id}/${friendId}`,
+      `https://sockrit-server.vercel.app/users/${_id}/${friendId}`,
       {
         method: "PATCH",
         headers: {
