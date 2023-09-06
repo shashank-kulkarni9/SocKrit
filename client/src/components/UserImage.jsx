@@ -8,7 +8,7 @@ const UserImage = ({ image, size = "60px" }) => {
         width={size}
         height={size}
         alt="user"
-        src={`https://sockrit.onrender.com/assets/${image}`}
+        src={`https://sockrit.vercel.app/assets/${image}`}
       />
     </Box>
   );
