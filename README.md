@@ -2,6 +2,15 @@
 
 This is a full-stack MERN (MongoDB, Express, React, Node.js) application.
 
+- Deployement : https://enchanting-blini-cdc000.netlify.app/
+  
+- Use the following credentials to try :
+  
+  ```
+  email : tempuser@gmail.com
+  password : tempuser
+  ```
+
 
 ## Table of Contents
 
@@ -18,10 +27,12 @@ This project is a complete fullstack social media application built using the ME
 ## Features
 
 - User authentication and authorization
+- User profiles with profile picture upload
+- Post creation and management
+- Like functionality for posts
+- Dark mode support
+- Responsive design for mobile and desktop
 - CRUD Operations
-- User profiles and social connections
-- Dark Mode
-- Likes and Comments
 
 ## Technologies
 
@@ -63,4 +74,29 @@ This project is a complete fullstack social media application built using the ME
 - Navigate through different pages or features of the application.
 - Interact with the user interface to perform actions such as creating posts, liking posts, etc.
 
+## Contributing
+
+There are many features to be implemented in this project and some bugs to fix. If you'd like to contribute to the project, please follow the guidelines outlined below:
+
+1. Fork the repository and clone it to your local machine.
+   ```shell
+   git clone https://github.com/your-username/project-name.git
+   ```
+2. Create a new branch for your feature or bug fix.
+   ```
+   git checkout -b feature/your-feature-name
+   ```
+3. Make your changes and test them thoroughly.
+4. Commit your changes with descriptive commit messages.
+   ```
+   git commit -m "Add your commit message here"
+   ```
+5. Push your changes to your forked repository.
+   ```
+   git push origin feature/your-feature-name
+   ```
+6. Open a pull request against the main repository's main branch.
+7. Provide a detailed description of your changes and why they should be merged.
+8. Follow the feedback and discussion on your pull request.
+   
 
